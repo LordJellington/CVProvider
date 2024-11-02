@@ -1,0 +1,31 @@
+.cv-retriever {
+  padding: 12px;
+  width: 800px;
+  margin: auto;
+}
+
+.cv-searchbox {
+  width: 400px;
+}
+
+div.accomplishment-item {
+  color: green;
+}
+
+ul.cv-basic-details {
+  padding: 0px;
+  list-style-type: none;
+  margin: 0px;
+}
+
+ul.cv-basic-details li {
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin: 5px 0px;
+}
+
+ul.cv-skills {
+  margin: 0px;
+}
